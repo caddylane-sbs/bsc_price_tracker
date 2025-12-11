@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (Secrets)
+.env
+
+# OS junk
+.DS_Store
+
+# Data Files (So you don't upload your personal Excel sheets)
+*.xlsx
+*.csv
